@@ -13,8 +13,7 @@ B. TEMAS
 
 C. OBJETIVO(S) 
 Al finalizar esta experiencia de laboratorio, el estudiante será capaz de: 
-• Reconocer un registro como una estructura de datos que permite agrupar campos relacionados de diferentes 
-tipos. 
+• Reconocer un registro como una estructura de datos que permite agrupar campos relacionados de diferentes tipos. 
 • Representar un registro en Java mediante una clase y crear objetos a partir de ella. 
 • Asignar y consultar los valores de los campos de un registro utilizando el operador punto (.). 
 • Crear y recorrer un arreglo de registros. 
@@ -27,8 +26,7 @@ tipos.
 
 D. METODOLOGÍA 
 • Fomentar el trabajo en equipo y la participación activa. 
-• Partir de situaciones concretas para identificar qué información debe almacenarse en un registro y qué 
-información requiere un conjunto. 
+• Partir de situaciones concretas para identificar qué información debe almacenarse en un registro y qué información requiere un conjunto. 
 • Desarrollar las actividades de forma progresiva: reconocimiento, implementación, prueba y aplicación. 
 • Promover el pensamiento lógico mediante análisis de entrada, proceso y salida antes de programar. 
 • Propiciar espacios para comparar los resultados obtenidos y explicar las decisiones tomadas. 
@@ -36,6 +34,4 @@ información requiere un conjunto.
 
 E. PROCEDIMIENTO O ENUNCIADO DE LA EXPERIENCIA 
 Contexto general 
-Una universidad desea desarrollar pequeños módulos para administrar información de estudiantes. Para ello se 
-utilizarán registros para representar los datos completos de cada estudiante y conjuntos para controlar 
-información que no debe contener duplicados.
+Una universidad desea desarrollar pequeños módulos para administrar información de estudiantes. Para ello se utilizarán registros para representar los datos completos de cada estudiante y conjuntos para controlar información que no debe contener duplicados.
