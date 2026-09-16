@@ -33,5 +33,4 @@ D. METODOLOGÍA
 • Desarrollar la capacidad de pensamiento crítico mediante preguntas de análisis y reflexión. 
 
 E. PROCEDIMIENTO O ENUNCIADO DE LA EXPERIENCIA 
-Contexto general 
 Una universidad desea desarrollar pequeños módulos para administrar información de estudiantes. Para ello se utilizarán registros para representar los datos completos de cada estudiante y conjuntos para controlar información que no debe contener duplicados.
